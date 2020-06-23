@@ -26,7 +26,7 @@ To signup on AutoTopiT , the user should do the following as shown in the figure
 -	Check the Terms & Condition checkbox
 -	Click on the SIGN UP button to create an account
 
->[include sign up image here]
+![Sign Up](../assets/user-images/signup.png)
 
 ### Customer Types
 The solution comes with 2 categories of subscribers in mind: Prepaid Subscribers and Postpaid Subscribers.
@@ -40,30 +40,30 @@ At Sign Up, when a customer selects Prepaid as Customer Type, a 6-digit verifica
 2. Verify that the phone number is on the MTN Network
 
 The user enters the OTP and clicks on **Confirm OTP** to proceed. 
->insert image
+![Verification](../assets/user-images/enter-otp.png)
 
 If the user enters an invalid OTP, an error message would be shown as displayed in the image below
->insert image
+![Invalid OTP](../assets/user-images/invalid-otp.png)
 
 If the user is yet to receive the OTP, he/she can select **Resend OTP** 
->insert image
+![Resend OTP](../assets/user-images/resend-otp.png)
 
 When the user has successfully verified his/her phone number, he/she is directed to a view where he/she is prompted to choose a preferred option to get started with AutoTopiT. The options are:
 1. Auto Recharge
 2. Schedule Recharge
 
 These options are explained fully in their sections below.
->insert image
+![Get Started](../assets/user-images/get-started.png)
 
 After a user has set up their preferred option, they are directed to add a Payment Profile. To do this, they can either:
 1. Add a Debit Card
 2. Use AutoTopiT Wallet
 
 These payment options are explained fully in their section sbelow.
->insert image 
+![Payment Option](../assets/user-images/payment-profile.png)
 
 After successfully setting up payment profile, the user is directed to their dashboard.
->insert prepaid dashboard image
+![Prepaid Dashboard](../assets/user-images/prepaid-dashboard.jpg)
 
 #### Postpaid Customer
 The Postpaid Customer is one who is already on MTN's post-paid billing service. Postpaid customers are required to topup their Airtime with specific amount in a monthly billing cycle to enable MTN recoup the already consumed postpaid airtime.
@@ -75,41 +75,41 @@ At Sign Up, when a customer selects Postpaid as Customer Type, a 6-digit verific
 2. Verify that the phone number is on the MTN Network
 
 The User enters the OTP and clicks on **Confirm OTP** to proceed. 
->insert image
+![Verification](../assets/user-images/enter-otp.png)
 
 If the User enters an invalid OTP, an error message would be shown as displayed in the image below
->insert image
+![Invalid OTP](../assets/user-images/invalid-otp.png)
 
 If the user is yet to receive the OTP, he/she can select **Resend OTP** 
->insert image
+![Resend OTP](../assets/user-images/resend-otp.png)
 
 When the user has verified his/her phone number, he/she is prompted to set up his/her Postpaid Details. This includes 
 - Recharge Amount
 - Selecting a Day of the month from a dropdown
 - Selecting a Time of the day from a dropdown
 
->insert image
+![Postpaid Details](../assets/user-images/postpaid-details.png)
 
 After a user has set up their postpaid details, they are directed to add a Payment Profile. To do this, they can either:
 1. Add a Debit Card
 2. Use AutoTopiT Wallet
 
 These payment options are explained fully in their section sbelow.
->insert image 
+![Payment Option](../assets/user-images/payment-profile.png) 
 
 After successfully setting up payment profile, the user is directed to their dashboard.
->insert postpaid dashboard image
+![Postpaid Dashboard](../assets/user-images/postpaid-dashboard.png)
 
 ## Sign In
 Existing Customers can sign in to AutoTopiT by following the steps outlined below:
 - Launch the web browser
--	Navigate to web portal[insert AT url]
+-	Navigate to web portal[***insert AT url***]
 -	On the home page click on Sign In
 -	Enter Phone Number or Email
 -	Enter Password
 -	Click on the Sign In button to proceed
 
->insert image
+![Sign In](../assets/user-images/signin.png)
 
 ### Forgot Password
 A user can request a password reset in the case of where password has been forgotten. The steps to initiate this process are outlined below:
@@ -117,10 +117,11 @@ A user can request a password reset in the case of where password has been forgo
 - Enter Phone Number or Email Address
 - Click on Reset Password to proceed
 
->insert image
+![Forgot Password](../assets/user-images/forgot-password.png)
 
 A password link is sent the user's email/phone number. The user clicks on the link and is brought to a view where he/she can update password.
->insert image
+
+![Update Password](../assets/user-images/update-password.png)
 
 ## AutoTopiT Recharge Features
 ### Automatic Recharge
@@ -133,12 +134,12 @@ To Set up Auto Recharge, the user follows these steps:
 - Enter Auto TopiT Cycle: This is the predefined time period for the user's AutoTopiT limit. It is Daily, Weekly or Monthly.
 - Click on Proceed
 
-> insert image
+![Auto Recharge](../assets/user-images/auto-recharge.png)
 
 ### Schedule Recharge
 This feature removes the bother about airtime or data purchases and it allows the user to just it. A schedule can be either single schedule or bulk schedule.
 
->insert image
+![Schedule Recharge](../assets/user-images/schedule-recharge.png)
 
 #### Schedule Beneficiary
 To set up Schedule for single beneficiary, the user follows these steps:
@@ -149,7 +150,7 @@ To set up Schedule for single beneficiary, the user follows these steps:
 - Choose Time, Day of the week/month
 - Click on Proceed
 
->insert image
+![Schedule Beneficiary](../assets/user-images/schedule-beneficiary.png)
 
 #### Bulk Beneficiary
 To set up Bulk Schedule, the user follows these steps:
@@ -158,8 +159,8 @@ To set up Bulk Schedule, the user follows these steps:
 - Fill Template with Beneficiaries' details
 - Upload Template
 
-**Note:** Beneficiaries pone number must be on the MTN network.
->insert image
+**Note:** Beneficiaries phone number must be on the MTN network.
+![Bulk Schedule](../assets/user-images/bulk-schedule.png)
 
 ### Instant Recharge
 Instant Recharge is a direct topup request to recharge your device promptly.
@@ -168,13 +169,15 @@ Instant Recharge is a direct topup request to recharge your device promptly.
 - Enter Airtime Amount/Select Data Plan
 - Click on Proceed
 
->insert image
+![Instant Recharge](../assets/user-images/instant-recharge.png)
 
 ## Payment Profile
 To enjoy automatic airtime recharge, the user is expected to set up a payment profile.
 Users have 2 options for payment:
 1. Debit card
 2. AutoTopiT wallet
+
+![Payment Option](../assets/user-images/payment-profile.png) 
 
 ### Add a Debit Card
 As an option for payment, subscribers can choose to add their debit cards once and our secure payment gateway provider will automatically debit the customer's card when ever there is need to provide airtime to the customer.
@@ -183,11 +186,13 @@ The solution currently support local Nigerian debit cards provided by MasterCard
 To add a card, the user follows the steps below:
 -	On the payment module click on Add a Debit Card
 -	Application navigates to confirm card details
->insert image
+
+![Confirm Card](../assets/user-images/confirm-card.png) 
 
 -	The customer clicks on  proceed to confirm card
 - The user is taken to our secure payment gateway where they input card details, and after payment is concluded the user is taken to their dashboard.
->insert image
+
+![Successful Card Debit](../assets/user-images/success-card-debit.png)
 
 **Note** to confirm card, a debit of NGN50 will be done on the account which will be credited as airtime.
 
@@ -197,10 +202,12 @@ To fund wallet, the user follows the steps below:
 - On the payment module, click on Use AutoTopiT Wallet
 - Enter Amount
 - Click on Proceed to be directed to our secure payment gateway, where their card is debited with the amount entered
->insert image
 
-- On successfully wallet funding, the user is directed to their dashboard
->insert image
+![Fund Wallet](../assets/user-images/fund-wallet.png) 
+
+- On successful wallet funding, the user is directed to their dashboard
+
+![Successful Wallet Funding](../assets/user-images/success-wallet-fund.png)
 
 ## Beneficiaries
 
@@ -214,25 +221,27 @@ To set up a beneficiary, the user follows these steps below;
 - Enter Email Address (Optional)
 - Click on Create button to proceed
 
-> insert image
+![Add Beneficiary](../assets/user-images/add-beneficiaries.png)
 
 ## Transaction History
 This shows a log of all transactions made by the user. Users can filter the logs by either one of or both:
 1. Transaction Type: Schedule TopiT, Instant TopiT, Auto TopiT
 2. Transaction Status: Pending, Successful, Failed
 
-> insert 2 images
+![Transaction Type](../assets/user-images/transaction-type.png)
+![Transaction Status](../assets/user-images/transaction-status.png)
 
 Transaction History can also be exported as either a PDF or EXCEL file.
-> insert image
+![Export Transaction](../assets/user-images/export-transaction.png)
 
 ## Help & Support
 We know our users might have some questions so we've coallated Frequently Asked Questions and provided answers. Contact details are also provided in the need that users would want to get in touch.
->insert image
+
+![FAQs](../assets/user-images/faqs.png)
 
 ## Profile
 Users can view and edit their profile details in this module. 
->insert image
+![Profile](../assets/user-images/profile.jpg)
 
 ## Logout
 Users can log out of their profile simply by clicking on the Logout option on Menu Bar
