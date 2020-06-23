@@ -13,13 +13,13 @@ The solution allows subscribers to setup automatic airtime recharge as soon as t
 
 ## Access to MTN AutoTopiT
 
-To access MTN AutoTopiT, the user is required to launch the application on a web browser [insert web url], the application supports a wide range of browser but users can get the best experience on Google Chrome and Mozilla Firefox browsers. 
+To access MTN AutoTopiT, the user is required to launch the application on a web browser [***insert web url***], the application supports a wide range of browser but users can get the best experience on Google Chrome and Mozilla Firefox browsers. 
 
 ## Sign Up
 The Solution is designed to ensure subscribers have a very smooth and easy experience during onboarding.
 To signup on AutoTopiT , the user should do the following as shown in the figure below
 -	Launch the web browser
--	Navigate to web portal[insert AT url]
+-	Navigate to web portal[***insert AT url***]
 -	On the home page click on Sign Up
 -	Enter all required information such as: Full Name, Phone Number (must be an MTN number), Email Address (Optional), Password
 -	Select Customer Type (Postpaid or prepaid)
@@ -39,14 +39,16 @@ At Sign Up, when a customer selects Prepaid as Customer Type, a 6-digit verifica
 1. Verify that he/she is the owner of that phone number
 2. Verify that the phone number is on the MTN Network
 
-The User enters the OTP and clicks on **Confirm OTP** to proceed. 
-If the User enters an invalid OTP, an error message would be shown as displayed in the image below
+The user enters the OTP and clicks on **Confirm OTP** to proceed. 
+>insert image
+
+If the user enters an invalid OTP, an error message would be shown as displayed in the image below
 >insert image
 
 If the user is yet to receive the OTP, he/she can select **Resend OTP** 
 >insert image
 
-When the user has verified his/her phone number, he/she is prompted to choose a preferred option to get started with AutoTopiT. The options are:
+When the user has successfully verified his/her phone number, he/she is directed to a view where he/she is prompted to choose a preferred option to get started with AutoTopiT. The options are:
 1. Auto Recharge
 2. Schedule Recharge
 
@@ -73,6 +75,8 @@ At Sign Up, when a customer selects Postpaid as Customer Type, a 6-digit verific
 2. Verify that the phone number is on the MTN Network
 
 The User enters the OTP and clicks on **Confirm OTP** to proceed. 
+>insert image
+
 If the User enters an invalid OTP, an error message would be shown as displayed in the image below
 >insert image
 
@@ -105,11 +109,15 @@ Existing Customers can sign in to AutoTopiT by following the steps outlined belo
 -	Enter Password
 -	Click on the Sign In button to proceed
 
+>insert image
+
 ### Forgot Password
 A user can request a password reset in the case of where password has been forgotten. The steps to initiate this process are outlined below:
 - Click on Forgot Password on the Sign In Page
 - Enter Phone Number or Email Address
 - Click on Reset Password to proceed
+
+>insert image
 
 A password link is sent the user's email/phone number. The user clicks on the link and is brought to a view where he/she can update password.
 >insert image
@@ -124,10 +132,12 @@ To Set up Auto Recharge, the user follows these steps:
 - Enter Auto TopiT Limit: This is the maximum amount of recharge that cannot be exceeded within a period of time.
 - Enter Auto TopiT Cycle: This is the predefined time period for the user's AutoTopiT limit. It is Daily, Weekly or Monthly.
 - Click on Proceed
+
 > insert image
 
 ### Schedule Recharge
 This feature removes the bother about airtime or data purchases and it allows the user to just it. A schedule can be either single schedule or bulk schedule.
+
 >insert image
 
 #### Schedule Beneficiary
@@ -138,6 +148,7 @@ To set up Schedule for single beneficiary, the user follows these steps:
 - Set Frequency: One-off, Daily, Weekly, Monthly
 - Choose Time, Day of the week/month
 - Click on Proceed
+
 >insert image
 
 #### Bulk Beneficiary
@@ -156,6 +167,7 @@ Instant Recharge is a direct topup request to recharge your device promptly.
 - Select Airtime or Data recharge
 - Enter Airtime Amount/Select Data Plan
 - Click on Proceed
+
 >insert image
 
 ## Payment Profile
@@ -170,8 +182,6 @@ The solution currently support local Nigerian debit cards provided by MasterCard
 
 To add a card, the user follows the steps below:
 -	On the payment module click on Add a Debit Card
->insert image
-
 -	Application navigates to confirm card details
 >insert image
 
@@ -185,8 +195,6 @@ To add a card, the user follows the steps below:
 Users can make purchase by funding their AutoTopiT Wallet, it's easy, fast and reliable.
 To fund wallet, the user follows the steps below:
 - On the payment module, click on Use AutoTopiT Wallet
->insert image
-
 - Enter Amount
 - Click on Proceed to be directed to our secure payment gateway, where their card is debited with the amount entered
 >insert image
@@ -194,3 +202,37 @@ To fund wallet, the user follows the steps below:
 - On successfully wallet funding, the user is directed to their dashboard
 >insert image
 
+## Beneficiaries
+
+Users can add family and friends as beneficiaries to their profiles. A beneficiary can enjoy all the features of AutoTopiT - Auto, Schedule, Instant Recharge and Postpaid Scheduling.
+
+To set up a beneficiary, the user follows these steps below;
+- Navigate Beneficiaries Module on the Menu Bar
+- Click on Add Beneficiary Icon
+- Enter Full Name
+- Enter Phone Number (Must be on the MTN Network)
+- Enter Email Address (Optional)
+- Click on Create button to proceed
+
+> insert image
+
+## Transaction History
+This shows a log of all transactions made by the user. Users can filter the logs by either one of or both:
+1. Transaction Type: Schedule TopiT, Instant TopiT, Auto TopiT
+2. Transaction Status: Pending, Successful, Failed
+
+> insert 2 images
+
+Transaction History can also be exported as either a PDF or EXCEL file.
+> insert image
+
+## Help & Support
+We know our users might have some questions so we've coallated Frequently Asked Questions and provided answers. Contact details are also provided in the need that users would want to get in touch.
+>insert image
+
+## Profile
+Users can view and edit their profile details in this module. 
+>insert image
+
+## Logout
+Users can log out of their profile simply by clicking on the Logout option on Menu Bar
