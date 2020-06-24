@@ -5,52 +5,52 @@ tags: [Guides]
 # Admin User Guide
 
 ## Introduction
-AutoTopiT provides subscribers with automated airtime and data recharge. It has 3 distinct features; Auto TopiT, Instant TopiT, and Schedule TopiT. It caters for both prepaid and postpaid subscribers. Users can also set up family and friends as beneficiaries for automated recharge.
+Auto Tup-up provides subscribers with automated airtime and data recharge. It has 3 distinct features; Auto Recharge, Instant Recharge, and Schedule Recharge. It caters for both prepaid and postpaid subscribers. Users can also set up family and friends as beneficiaries for automated recharge.
 
-This User Guide explains the functionalities of the MTN AutoTopiT Admin Portal, the actions available, how to set up admin user roles and the privileges they can access.
+This User Guide explains the functionalities of the MTN Auto Tup-up Admin Portal, the actions available, how to set up admin user roles and the privileges they can access.
 
 
 ## Getting Started
 
-AutoTopiT admins have access to an admin portal where based on their privilege they can access different modules. This portal is accessed through any web browser, on launching the web browser, the admin user should navigate to AutoTopiT Admin URL (insert URL here).
+Auto Tup-up admins have access to an admin portal where based on their privilege they can access different modules. This portal is accessed through any web browser, on launching the web browser, the admin user should navigate to Auto Tup-up Admin URL (insert URL here).
 
 ![Landing page](../assets/images/landing-page.png)
 
 ### Sign In 
-The pre-requisite for an admin to sign in to AutoTopiT admin portal is that an account must have been created for the admin by a super admin. The created admin account has access to modules that his/her role and privilege allows.
+The pre-requisite for an admin to sign in to Auto Tup-up admin portal is that an account must have been created for the admin by a super admin. The created admin account has access to modules that his/her role and privilege allows.
 
 ![Sign in](../assets/images/sign-in.png)
 
 ## Dashboard
 
-The admin dashboard has statistics of the user’s activities on AutoTopiT. The dashboard is divided into 2 categories.
+The admin dashboard has statistics of the user’s activities on Auto Tup-up. The dashboard shows different counts and trend of key activities on the user portal.
 
-### TopiT Counts
+### Recharge Counts
 
 This category has the following statistics:
 
-- Today’s TopiT: This is the total count of recharge purchased for the day (as at when the dashboard was loaded).
-- TopiT for last 7 days: This is a total count of recharge purchased in the last 7 days. 
-- TopiT for last 30 days: This is a total count of recharge purchased in the last 30 days. 
-- All-Time TopiT: This is the all-time recharge count.
+- Today’s Recharge: This is the total count of recharge purchased for the day (as at when the dashboard was loaded).
+- Recharge for last 7 days: This is a total count of recharge purchased in the last 7 days. 
+- Recharge for last 30 days: This is a total count of recharge purchased in the last 30 days. 
+- All-Time Recharge: This is the all-time recharge count.
 
-![TopiT Count](../assets/images/topit-count.png)
+![Recharge Count](../assets/images/topit-count.png)
 
-### TopiT Trend
+### Recharge Trend
 
-This category shows a chart of Total TopiT Trend. The chart can be rendered in Year, to achieve this the admin is to select the year from the filter dropdown.
+This category shows a chart of Total Recharge Trend. The chart can be rendered in Year, to achieve this the admin is to select the year from the filter dropdown.
 
-![TopiT Trend](../assets/images/topit-trend.png)
+![Recharge Trend](../assets/images/topit-trend.png)
 
 ## Finance Report Module
 
 The finance report module contains 2 categories.
 
-### TopiT Reports
+### Recharge Reports
 This category has the following statistics:
-  - Successful Auto TopiT count
+  - Successful Auto Recharge count
   - Non-Activated Accounts count
-  - Failed Auto TopiT count
+  - Failed Auto Recharge count
   - Activated Accounts count
   - Churned Accounts count
   - Total Revenue in amount
@@ -60,7 +60,7 @@ This category has the following statistics:
 
 These reports can be rendered by day, past 7-days, past 30-days and year. To achieve this, the admin is to select from the filter dropdown.
 
-![TopiT Reports](../assets/images/topit-reports.png)
+![Recharge Reports](../assets/images/Recharge-reports.png)
 
 ### Failed Transactions
 
@@ -89,24 +89,24 @@ This module contains a log of subscribers details such as; name, email, phone nu
 ![Subscriber Support](../assets/images/subscriber-support.png)
 
 ### Transaction Support
-This module contains a list of subscribers transaction details such as; name, email, phone number, amount, TopiT type and status, debit mode and status. Admins can filter the data based on:
+This module contains a list of subscribers transaction details such as; name, email, phone number, amount, Recharge type and status, debit mode and status. Admins can filter the data based on:
   - Subscriber Phone Number
   - Subscriber Email
   - Type
   - Debit Status
-  - TopiT Status  
+  - Recharge Status  
   - Date From and Date to
 
 ![Transaction Support](../assets/images/transaction-support.png)
 
-### TopiT Profile Support
-This module contains a list of subscribers TopiT profile details such as; Subscriber name, TopiT profile, phone number, threshold, amount, limit and cycle. Admins can deactivate or reactivate profiles here. Admins can filter the data based on:
+### Recharge Profile Support
+This module contains a list of subscribers Recharge profile details such as; Subscriber name, Recharge profile, phone number, threshold, amount, limit and cycle. Admins can deactivate or reactivate profiles here. Admins can filter the data based on:
   - Specific search parameter
   - Threshold
   - Cycle
   - Amount
 
-![Topit Profile Support](../assets/images/topit-profile-support.png)
+![Recharge Profile Support](../assets/images/topit-profile-support.png)
 
 ## User Management
 
