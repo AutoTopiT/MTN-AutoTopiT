@@ -18,8 +18,8 @@ To access MTN AutoTopiT, the user is required to launch the application on a web
 - Firefox 65 -- 29/01/2019 
 - Safari(desktop) El Sierra -- 22/07/2019                                      
 - Edge 44.17763 -- 13/11/2018 
-- Android chrome 71 -- 04/12/2018                                                          
-- Android firefox 65 -- 01/29/2019
+- Android Chrome 71 -- 04/12/2018                                                          
+- Android Firefox 65 -- 01/29/2019
 
 ## Sign Up
 The Solution is designed to ensure subscribers have a very smooth and easy experience during onboarding.
@@ -61,14 +61,14 @@ When the user has successfully verified his/her phone number, he/she is directed
 These options are explained fully in their sections below.
 ![Get Started](../assets/user-images/get-started.png)
 
-After a user has set up their preferred option, they are directed to add a Payment Profile. To do this, they can either:
-1. Add a Debit Card
-2. Use AutoTopiT Wallet
+After a user has set up their preferred recharge option, they are directed to add a Payment Profile. To do this, they can either:
+1. Add a Debit Card for recurring payment.
+2. Fund Wallet from card or bank account.
 
 These payment options are explained fully in their section sbelow.
 ![Payment Option](../assets/user-images/payment-profile.png)
 
-After successfully setting up payment profile, the user is directed to their dashboard.
+After successfully setting up payment profile, the user is activated and re-directed to the dashboard.
 ![Prepaid Dashboard](../assets/user-images/prepaid-dashboard.jpg)
 
 #### Postpaid Customer
