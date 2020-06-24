@@ -2,7 +2,7 @@
 tags: [Guides]
 ---
 
-# Web Portal User Guide
+# User Portal Guide
 
 ## Introduction
 
@@ -13,7 +13,13 @@ The solution allows subscribers to setup automatic airtime recharge as soon as t
 
 ## Access to MTN AutoTopiT
 
-To access MTN AutoTopiT, the user is required to launch the application on a web browser [***insert web url***], the application supports a wide range of browser but users can get the best experience on Google Chrome and Mozilla Firefox browsers. 
+To access MTN AutoTopiT, the user is required to launch the application on a web browser [***insert web url***], the application supports a wide range of browser but users can get the best experience on Google Chrome and Mozilla Firefox browsers. The minimum supported versions are as follows: 
+- Chrome 72 -- 29/01/2019, 
+- Firefox 65 -- 29/01/2019 
+- Safari(desktop) El Sierra -- 22/07/2019                                      
+- Edge 44.17763 -- 13/11/2018 
+- Android chrome 71 -- 04/12/2018                                                          
+- Android firefox 65 -- 01/29/2019
 
 ## Sign Up
 The Solution is designed to ensure subscribers have a very smooth and easy experience during onboarding.
