@@ -60,7 +60,7 @@ This category has the following statistics:
 
 These reports can be rendered by day, past 7-days, past 30-days and year. To achieve this, the admin is to select from the filter dropdown.
 
-![Recharge Reports](../assets/images/Recharge-reports.png)
+![Recharge Reports](../assets/images/topit-reports.png)
 
 ### Failed Transactions
 

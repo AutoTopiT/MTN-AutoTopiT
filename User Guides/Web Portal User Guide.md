@@ -6,14 +6,14 @@ tags: [Guides]
 
 ## Introduction
 
-This user guide explains the functionalities of the MTN MTN Auto Tup-up application as it runs on PWA web portal.
+This user guide explains the functionalities of the MTN Auto Tup-up application as it runs on PWA web portal.
 MTN Auto Tup-up solution is an innovative product designed to provide convenience in airtime vending by automating and regulating the airtime recharge process. 
 
 The solution allows subscribers to setup automatic airtime recharge as soon as their airtime gets below a specified threshold and terminate after a set maximum airtime has been received over an interval. The solution has other features such as Scheduling Airtime and Instant Airtime Recharge.
 
 ## Access to MTN Auto Tup-up
 
-To access MTN MTN Auto Tup-up, the user is required to launch the application on a web browser [***insert web url***], the application supports a wide range of browser but users can get the best experience on Google Chrome and Mozilla Firefox browsers. The minimum supported versions are as follows: 
+To access MTN Auto Tup-up, the user is required to launch the application on a web browser [***insert web url***], the application supports a wide range of browser but users can get the best experience on Google Chrome and Mozilla Firefox browsers. The minimum supported versions are as follows: 
 - Chrome 72 -- 29/01/2019, 
 - Firefox 65 -- 29/01/2019 
 - Safari(desktop) El Sierra -- 22/07/2019                                      
@@ -40,6 +40,7 @@ The solution comes with 2 categories of subscribers in mind: Prepaid Subscribers
 #### Prepaid Customer
 The Prepaid Customer is one who requires constant recharge of airtime, the core value of the solution aims to automate this need for constant recharge of airtime, the customer could either opt-in to Automatic Airtime Recharge or Scheduled Airtime Recharge.
 
+
 ##### Prepaid Customer Sign Up Process
 At Sign Up, when a customer selects Prepaid as Customer Type, a 6-digit verification code (OTP) is sent to the customer's phone number to:
 1. Verify that he/she is the owner of that phone number
@@ -51,7 +52,8 @@ The user enters the OTP and clicks on **Confirm OTP** to proceed.
 If the user enters an invalid OTP, an error message would be shown as displayed in the image below
 ![Invalid OTP](../assets/user-images/invalid-otp.png)
 
-If the user is yet to receive the OTP, he/she can select **Resend OTP** 
+If the user is yet to receive the OTP, he/she can select **Resend OTP**
+
 ![Resend OTP](../assets/user-images/resend-otp.png)
 
 When the user has successfully verified his/her phone number, he/she is directed to a view where he/she is prompted to choose a preferred option to get started with MTN Auto Tup-up. The options are:
@@ -74,6 +76,7 @@ After successfully setting up payment profile, the user is activated and re-dire
 #### Postpaid Customer
 The Postpaid Customer is one who is already on MTN's post-paid billing service. Postpaid customers are required to topup their Airtime with specific amount in a monthly billing cycle to enable MTN recoup the already consumed postpaid airtime.
 
+
 ##### Postpaid Customer Sign Up Process
 
 At Sign Up, when a customer selects Postpaid as Customer Type, a 6-digit verification code (OTP) is sent to the customer's phone number to:
@@ -87,6 +90,7 @@ If the User enters an invalid OTP, an error message would be shown as displayed 
 ![Invalid OTP](../assets/user-images/invalid-otp.png)
 
 If the user is yet to receive the OTP, he/she can select **Resend OTP** 
+
 ![Resend OTP](../assets/user-images/resend-otp.png)
 
 When the user's phone number is verified, he is prompted to enter his Postpaid billing cycle for airtime recharge as follows: 
@@ -125,7 +129,7 @@ A user can request a password reset in the case of where password has been forgo
 
 ![Forgot Password](../assets/user-images/forgot-password.png)
 
-A password link is sent the user's email/phone number. The user clicks on the link and is brought to a view where he/she can update password.
+A password link is sent to the user's email/phone number. The user clicks on the link and is brought to a view where he/she can update password.
 
 ![Update Password](../assets/user-images/update-password.png)
 
