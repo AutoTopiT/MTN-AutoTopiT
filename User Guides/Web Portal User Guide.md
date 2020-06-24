@@ -6,14 +6,14 @@ tags: [Guides]
 
 ## Introduction
 
-This user guide explains the functionalities of the MTN AutoTopiT application as it runs on PWA web portal.
-AutoTopiT solution is an innovative product designed to provide convenience in airtime vending by automating and regulating the airtime recharge process. 
+This user guide explains the functionalities of the MTN MTN Auto Tup-up application as it runs on PWA web portal.
+MTN Auto Tup-up solution is an innovative product designed to provide convenience in airtime vending by automating and regulating the airtime recharge process. 
 
 The solution allows subscribers to setup automatic airtime recharge as soon as their airtime gets below a specified threshold and terminate after a set maximum airtime has been received over an interval. The solution has other features such as Scheduling Airtime and Instant Airtime Recharge.
 
-## Access to MTN AutoTopiT
+## Access to MTN Auto Tup-up
 
-To access MTN AutoTopiT, the user is required to launch the application on a web browser [***insert web url***], the application supports a wide range of browser but users can get the best experience on Google Chrome and Mozilla Firefox browsers. The minimum supported versions are as follows: 
+To access MTN MTN Auto Tup-up, the user is required to launch the application on a web browser [***insert web url***], the application supports a wide range of browser but users can get the best experience on Google Chrome and Mozilla Firefox browsers. The minimum supported versions are as follows: 
 - Chrome 72 -- 29/01/2019, 
 - Firefox 65 -- 29/01/2019 
 - Safari(desktop) El Sierra -- 22/07/2019                                      
@@ -23,7 +23,7 @@ To access MTN AutoTopiT, the user is required to launch the application on a web
 
 ## Sign Up
 The Solution is designed to ensure subscribers have a very smooth and easy experience during onboarding.
-To signup on AutoTopiT , the user should do the following as shown in the figure below
+To signup on MTN Auto Tup-up , the user should do the following as shown in the figure below
 -	Launch the web browser
 -	Navigate to web portal[***insert AT url***]
 -	On the home page click on Sign Up
@@ -54,7 +54,7 @@ If the user enters an invalid OTP, an error message would be shown as displayed 
 If the user is yet to receive the OTP, he/she can select **Resend OTP** 
 ![Resend OTP](../assets/user-images/resend-otp.png)
 
-When the user has successfully verified his/her phone number, he/she is directed to a view where he/she is prompted to choose a preferred option to get started with AutoTopiT. The options are:
+When the user has successfully verified his/her phone number, he/she is directed to a view where he/she is prompted to choose a preferred option to get started with MTN Auto Tup-up. The options are:
 1. Auto Recharge
 2. Schedule Recharge
 
@@ -89,25 +89,25 @@ If the User enters an invalid OTP, an error message would be shown as displayed 
 If the user is yet to receive the OTP, he/she can select **Resend OTP** 
 ![Resend OTP](../assets/user-images/resend-otp.png)
 
-When the user has verified his/her phone number, he/she is prompted to set up his/her Postpaid Details. This includes 
-- Recharge Amount
-- Selecting a Day of the month from a dropdown
-- Selecting a Time of the day from a dropdown
+When the user's phone number is verified, he is prompted to enter his Postpaid billing cycle for airtime recharge as follows: 
+- Enter Recharge Amount
+- Select a Day of the month
+- Select a Time of the day
 
 ![Postpaid Details](../assets/user-images/postpaid-details.png)
 
 After a user has set up their postpaid details, they are directed to add a Payment Profile. To do this, they can either:
-1. Add a Debit Card
-2. Use AutoTopiT Wallet
+1. Add a Debit Card for recurring payment.
+2. Fund Wallet from card or bank account.
 
-These payment options are explained fully in their section sbelow.
+These payment options are explained fully in their section below.
 ![Payment Option](../assets/user-images/payment-profile.png) 
 
-After successfully setting up payment profile, the user is directed to their dashboard.
+After successfully setting up payment profile, the user is activated and re-directed to the dashboard.
 ![Postpaid Dashboard](../assets/user-images/postpaid-dashboard.png)
 
 ## Sign In
-Existing Customers can sign in to AutoTopiT by following the steps outlined below:
+Existing Customers can sign in to MTN Auto Tup-up by following the steps outlined below:
 - Launch the web browser
 -	Navigate to web portal[***insert AT url***]
 -	On the home page click on Sign In
@@ -129,21 +129,21 @@ A password link is sent the user's email/phone number. The user clicks on the li
 
 ![Update Password](../assets/user-images/update-password.png)
 
-## AutoTopiT Recharge Features
+## MTN Auto Tup-up Recharge Features
 ### Automatic Recharge
 This is the feature that allows a user set up an automatic rechagre plan so that they never run out of airtime.
 To Set up Auto Recharge, the user follows these steps:
 - Select Phone Number (Self, Beneficiary or Other) to recharge.
-- Enter Auto TopiT Amount: This is the specific amount to credit the user at the point of need.
-- Enter Auto TopiT Threshold: This is the minimum amount the user's account balance gets to before the system triggers an AutoTopiT.
-- Enter Auto TopiT Limit: This is the maximum amount of recharge that cannot be exceeded within a period of time.
-- Enter Auto TopiT Cycle: This is the predefined time period for the user's AutoTopiT limit. It is Daily, Weekly or Monthly.
+- Enter Amount: This is the specific amount to credit the user when a threshold airtime balance is reached.
+- Enter Threshold: This is the minimum amount the user's account balance gets to before the system triggers an Auto Recharge.
+- Enter Limit: This is the maximum amount of recharge that cannot be exceeded within a period of time.
+- Enter Cycle: This is the predefined time period for the user's recharge limit. It is Daily, Weekly or Monthly.
 - Click on Proceed
 
 ![Auto Recharge](../assets/user-images/auto-recharge.png)
 
 ### Schedule Recharge
-This feature removes the bother about airtime or data purchases and it allows the user to just it. A schedule can be either single schedule or bulk schedule.
+This feature removes the bother about airtime or data purchases and allows the user to schedule recharge for self or beneficiary. A schedule can be either single schedule or bulk schedule.
 
 ![Schedule Recharge](../assets/user-images/schedule-recharge.png)
 
@@ -180,8 +180,8 @@ Instant Recharge is a direct topup request to recharge your device promptly.
 ## Payment Profile
 To enjoy automatic airtime recharge, the user is expected to set up a payment profile.
 Users have 2 options for payment:
-1. Debit card
-2. AutoTopiT wallet
+1. Add a Debit Card for recurring payment.
+2. Fund Wallet from card or bank account.
 
 ![Payment Option](../assets/user-images/payment-profile.png) 
 
@@ -202,12 +202,12 @@ To add a card, the user follows the steps below:
 
 **Note** to confirm card, a debit of NGN50 will be done on the account which will be credited as airtime.
 
-### AutoTopiT Wallet
-Users can make purchase by funding their AutoTopiT Wallet, it's easy, fast and reliable.
+### MTN Auto Tup-up Wallet
+Users can make purchase by funding their MTN Auto Tup-up Wallet, it's easy, fast and reliable. Users can fund wallet from their card or bank account.
 To fund wallet, the user follows the steps below:
-- On the payment module, click on Use AutoTopiT Wallet
+- On the payment module, click on Use MTN Auto Tup-up Wallet
 - Enter Amount
-- Click on Proceed to be directed to our secure payment gateway, where their card is debited with the amount entered
+- Click on Proceed to be directed to our secure payment gateway, where their card/bank is debited with the amount entered
 
 ![Fund Wallet](../assets/user-images/fund-wallet.png) 
 
@@ -217,7 +217,7 @@ To fund wallet, the user follows the steps below:
 
 ## Beneficiaries
 
-Users can add family and friends as beneficiaries to their profiles. A beneficiary can enjoy all the features of AutoTopiT - Auto, Schedule, Instant Recharge and Postpaid Scheduling.
+Users can add family and friends as beneficiaries to their profiles. A beneficiary can enjoy all the features of MTN Auto Tup-up - Auto, Schedule, Instant Recharge and Postpaid Scheduling.
 
 To set up a beneficiary, the user follows these steps below;
 - Navigate Beneficiaries Module on the Menu Bar
@@ -231,7 +231,7 @@ To set up a beneficiary, the user follows these steps below;
 
 ## Transaction History
 This shows a log of all transactions made by the user. Users can filter the logs by either one of or both:
-1. Transaction Type: Schedule TopiT, Instant TopiT, Auto TopiT
+1. Transaction Type: Schedule Recharge, Instant Recharge, Auto Recharge
 2. Transaction Status: Pending, Successful, Failed
 
 ![Transaction Type](../assets/user-images/transaction-type.png)
@@ -241,7 +241,7 @@ Transaction History can also be exported as either a PDF or EXCEL file.
 ![Export Transaction](../assets/user-images/export-transaction.png)
 
 ## Help & Support
-We know our users might have some questions so we've coallated Frequently Asked Questions and provided answers. Contact details are also provided in the need that users would want to get in touch.
+We know users might have some questions so we have collated Frequently Asked Questions and provided answers. Contact details are also provided in the need that users would want to get in touch with support.
 
 ![FAQs](../assets/user-images/faqs.png)
 
@@ -250,4 +250,4 @@ Users can view and edit their profile details in this module.
 ![Profile](../assets/user-images/profile.jpg)
 
 ## Logout
-Users can log out of their profile simply by clicking on the Logout option on Menu Bar
+Users can log out of their profile simply by clicking on the Logout option on the Menu Bar.
