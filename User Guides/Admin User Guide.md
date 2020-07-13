@@ -9,7 +9,6 @@ Auto Tup-up provides subscribers with automated airtime and data recharge. It ha
 
 This User Guide explains the functionalities of the MTN Auto Tup-up Admin Portal, the actions available, how to set up admin user roles and the privileges they can access.
 
-
 ## Getting Started
 
 Auto Tup-up admins have access to an admin portal where based on their privilege they can access different modules. This portal is accessed through any web browser, on launching the web browser, the admin user should navigate to Auto Tup-up Admin URL (insert URL here).
