@@ -1,7 +1,3 @@
----
-tags: [Guides]
----
-
 # User Portal Guide
 
 ## Introduction
